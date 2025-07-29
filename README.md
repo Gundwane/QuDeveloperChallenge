@@ -16,7 +16,7 @@ Word Finder is a C# application designed to search for specific words in a chara
 ### Installation
 1. Clone the repository:
    ```bash
-   https://github.com/Gundwane/QuDeveloperChallenge.git
+   git clone https://github.com/Gundwane/QuDeveloperChallenge.git
    cd WordFinder
 2. Open the solution in your preferred IDE (such as Visual Studio or JetBrains Rider).
 
@@ -26,8 +26,9 @@ The main entry point of the application is in Program.cs. You can customize the 
 To execute the program:
 
    ```bash
-   dotnet run
    cd WordFinder
+   cd QuDeveloperChallenge/
+   dotnet run
    ```
 
 ### Example
