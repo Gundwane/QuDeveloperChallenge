@@ -1,0 +1,4 @@
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\QuDeveloperChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\QuDeveloperChallenge.AssemblyInfoInputs.cache
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\QuDeveloperChallenge.AssemblyInfo.cs
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\QuDeveloperChallenge.csproj.CoreCompileInputs.cache

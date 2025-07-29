@@ -1,0 +1,14 @@
+C:\Users\Eze\source\repos\WordFinder\WordFinder\bin\Debug\net8.0\WordSearchApp.exe
+C:\Users\Eze\source\repos\WordFinder\WordFinder\bin\Debug\net8.0\WordSearchApp.deps.json
+C:\Users\Eze\source\repos\WordFinder\WordFinder\bin\Debug\net8.0\WordSearchApp.runtimeconfig.json
+C:\Users\Eze\source\repos\WordFinder\WordFinder\bin\Debug\net8.0\WordSearchApp.dll
+C:\Users\Eze\source\repos\WordFinder\WordFinder\bin\Debug\net8.0\WordSearchApp.pdb
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.AssemblyInfoInputs.cache
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.AssemblyInfo.cs
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.dll
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\refint\WordSearchApp.dll
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.pdb
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\WordSearchApp.genruntimeconfig.cache
+C:\Users\Eze\source\repos\WordFinder\WordFinder\obj\Debug\net8.0\ref\WordSearchApp.dll
