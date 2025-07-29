@@ -26,7 +26,7 @@ The main entry point of the application is in Program.cs. You can customize the 
 To execute the program:
 
    ```bash
-   git clone https://github.com/yourusername/WordFinder.git
+   https://github.com/Gundwane/QuDeveloperChallenge.git
    cd WordFinder
    ```
 
